@@ -1,4 +1,4 @@
-# First szkic INSPIRACJA
+# INSPIRACJA
 
 Menu co ma zawierac?:
 1. Home
@@ -31,17 +31,17 @@ Gui
 
 
 # Kierunki rozwoju
-1	 Data Science
-2	 Data Engineering
-3	 ML/AI
-4	 Computer Vision
-5	 Web Apps
-6	 Web Crawlers
-7	 Web Development
-8	 Web Frameworks
-9	 GUI based desktop apps
-10   
-11   
+1.	 Data Science
+2.	 Data Engineering
+3.	 ML/AI
+4.	 Computer Vision
+5.	 Web Apps
+6.	 Web Crawlers
+7.	 Web Development
+8.	 Web Frameworks
+9.	 GUI based desktop apps
+10.   
+11.   
 
   
 # Czego byśmy chcieli sie nauczyć z czegoś takiego
@@ -73,8 +73,7 @@ Gui
 
 
  
- ANKIETY
- ![](https://i.imgur.com/v1lBzUu.png)
+
 
 
 
@@ -130,6 +129,7 @@ a potem 7 osob zrobi logowanie to zrobimy to w grupach, potem mozna zrobic revie
 
 # Jakie robimy ANkiety? 
 ![](https://i.imgur.com/9xm9g60.png)
+
 
 
 # Pomysły
