@@ -149,7 +149,11 @@ a potem 7 osob zrobi logowanie to zrobimy to w grupach, potem mozna zrobic revie
 
 # Przykład 
 a) Cube zna Django od A do A
+
 b) Xarabek zna Django od A do C
+
 c) Seba zna Django od A do T
+
 d) Vraith zna DJango od A do Z
+
 e) Vraith Uczy Sebe, Seba uczy Xarabka, Xarabek uczy Cube, Cube robi jakis content
