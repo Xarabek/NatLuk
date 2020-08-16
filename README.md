@@ -157,3 +157,29 @@ c) Seba zna Django od A do T
 d) Vraith zna DJango od A do Z
 
 e) Vraith Uczy Sebe, Seba uczy Xarabka, Xarabek uczy Cube, Cube robi jakis content
+
+
+# 2 do zrobienia
+
+Zrobic stopien trudnosci taskow
+Kto bedzie organizowal i kontrolowal trello
+kto bedzie mergowal gitlaba (maintainers/developers?)
+
+
+# Jak dolaczyc do projektu?
+1. Gitlab login
+2. email do trello
+3. 
+
+
+# wziecie Open taska
+
+1. Kanbana raczej 
+2. ciezko bedzie sie dodawac do taskow?
+3. bedziemy dodawac taski w jakims tam okresie. 
+4. jak przypisujemy taski do ludzi? 
+
+# Etykiety na Trello
+1. Jakie wybeiramy? Nazwy, Kolory
+2. czy da rade zblokowac task innym taskiem? 
+3. ![](https://i.imgur.com/V5DrWg7.png)
